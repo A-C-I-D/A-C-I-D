@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @A-C-I-D
 - 👀 I’m interested in computer languages.
-- 🌱 I’m currently learning phython.
-- 📫 How to reach me on instagram - @ved.asawa
+- 🌱 I’m currently learning html.
 - I am just a student, who is intersted in computers and its working. 
