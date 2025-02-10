@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @A-C-I-D
-- 👀 I’m interested in computer languages.
-- 🌱 I’m currently learning html.
-- I am just a student, who is intersted in computers and its working. 
+ Hey there! I'm Ved
+💻 Computer Engineering Student | 🏍️ Moto Enthusiast 
+⚙️ Passionate about Computer Programming and System Design
+📍 Based in India, exploring tech & innovation 🚀
+🏎️ 1644
